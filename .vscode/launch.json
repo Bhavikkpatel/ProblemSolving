@@ -1,0 +1,60 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch jtm",
+      "request": "launch",
+      "mainClass": "jtm",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch roadsandlib",
+      "request": "launch",
+      "mainClass": "roadsandlib",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Decode",
+      "request": "launch",
+      "mainClass": "Decode",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch middle",
+      "request": "launch",
+      "mainClass": "middle",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch pathSum",
+      "request": "launch",
+      "mainClass": "pathSum",
+      "projectName": "leetcode_17974a0f"
+    },
+    {
+      "type": "java",
+      "name": "Launch triangle",
+      "request": "launch",
+      "mainClass": "triangle",
+      "projectName": "leetcode_17974a0f"
+    }
+  ]
+}
